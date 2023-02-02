@@ -1,12 +1,20 @@
 {
-  "name": "keeper-part-3-starting",
+  "name": "using-pre-built-react-components",
   "version": "1.0.0",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "react-scripts": "3.2.0"
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@material-ui/icons": "4.11.3",
+    "@material-ui/private-theming": "5.0.0-alpha.33",
+    "@mui/core-downloads-tracker": "5.11.7",
+    "@mui/icons-material": "5.11.0",
+    "@mui/material": "5.11.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "typescript": "3.3.3"
@@ -22,8 +30,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  ]
 }
